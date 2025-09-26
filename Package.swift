@@ -4,11 +4,11 @@ import PackageDescription
 
 let package = Package(
 
-    name: "ScienceKitTemplate",
+    name: "TestScienceKit",
 
     dependencies: [
         .package(url: "https://github.com/apple/swift-numerics", from: "1.0.0"),
-        .package(url: "https://github.com/apple/swift-numerics", from: "1.0.0")
+        .package(url: "https://github.com/GraineDePomme/ScienceKit", from: "1.0.0")
     ],
 
     targets: [
