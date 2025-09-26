@@ -1,15 +1,6 @@
 {
-  "originHash" : "6d7f0e22bb3b4e4b4e02cf013c6ce671b0f6b376d2adea2544f5242573c196bb",
+  "originHash" : "525a078adb5221c4a6c76d68d8b5b7e958a05285b4ee7e20c2bdd7245011f6d2",
   "pins" : [
-    {
-      "identity" : "sciencekit",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/GraineDePomme/ScienceKit",
-      "state" : {
-        "revision" : "078e949249cb63580cc0dd3256d7f757182a58fb",
-        "version" : "1.0.0"
-      }
-    },
     {
       "identity" : "swift-numerics",
       "kind" : "remoteSourceControl",
